@@ -8,11 +8,11 @@
 }
 
 .nav {
-    background-color: rgb(180, 111, 47);
+    background-color: rgb(187, 143, 102);
 }
 
 .nav_ul{
-    background-color: rgb(180, 111, 47);
+    background-color: rgb(182, 117, 55);
     text-align: center;
 }
 
@@ -62,4 +62,19 @@
     font-family: sans-serif;
 
 
+}
+
+.presentacion {
+    margin-top: 25px;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 33px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 30px;
+
+}
+
+.bloque {
+    background-color: rgb(219, 181, 132);
 }
